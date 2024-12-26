@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: cbpi4-ctrl-ferm
+Version: 0.0.1
+Summary: CraftBeerPi plugin for PID controlled fermentation
+Home-page: 
+Author: Mikael Karlsson
+Author-email: rmkarlsson@protnmail.ch
+License: GPLv3
+License-File: LICENSE

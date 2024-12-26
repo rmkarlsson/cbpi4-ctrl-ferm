@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+cbpi4-ctrl-ferm/__init__.py
+cbpi4-ctrl-ferm/config.yaml
+cbpi4-ctrl-ferm/static/cbpi.png
+cbpi4-ctrl-ferm/static/index.html
+cbpi4-ctrl-ferm/static/style.css
+cbpi4_ctrl_ferm.egg-info/PKG-INFO
+cbpi4_ctrl_ferm.egg-info/SOURCES.txt
+cbpi4_ctrl_ferm.egg-info/dependency_links.txt
+cbpi4_ctrl_ferm.egg-info/top_level.txt

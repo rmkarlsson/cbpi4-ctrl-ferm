@@ -1,0 +1,2 @@
+include cbpi4-ctrl-ferm/config.yaml
+recursive-include cbpi4-ctrl-ferm/static *
